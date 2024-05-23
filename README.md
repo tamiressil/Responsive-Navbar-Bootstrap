@@ -4,9 +4,15 @@
   
  - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
 
+ - Projeto construído com base em um tutorial do Youtube.
+   
+## Link do yotube:
+
+[ Clique aqui para acessar!](https://www.youtube.com/watch?v=Vpgpt9jhJDI)
+
 
  ## Visualize o site no link abaixo:
- [Veja-o aqui!]()
+ [Veja-o aqui!](https://responsive-navbar-bootstrap-cyan.vercel.app/)
    
    
    
